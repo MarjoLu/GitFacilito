@@ -1,0 +1,17 @@
+commit 58c7673dc87684cc6a02e9c6b8fb91cede72c7f1
+Author: Marjorie <marjorie-07@hotmail.com>
+Date:   Sun Jan 7 00:18:35 2018 -0500
+
+    Cambiamos prueba y agregamos nuevo texto y estilo
+
+commit 0efabd1727b8aba820c1e5e2a83da43c701de29e
+Author: Marjorie <marjorie-07@hotmail.com>
+Date:   Sun Jan 7 00:16:06 2018 -0500
+
+    Cambiamos prueba y agregamos nuevo texto
+
+commit 1a769118cd3fcb2dcc4e54c7a5e572e6dd3c4583
+Author: Marjorie <marjorie-07@hotmail.com>
+Date:   Sun Jan 7 00:11:50 2018 -0500
+
+    Iniciamos
